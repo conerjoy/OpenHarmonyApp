@@ -1,6 +1,10 @@
 {
   "src": [
     "pages/Index",
-    "pages/list/ListIndex"
+    "pages/list/ListIndex",
+    "pages/BusIndex",
+    "pages/thread/ThreadIndex",
+    "pages/thread/WorkIndex",
+    "pages/thread/TaskPoolIndex"
   ]
 }

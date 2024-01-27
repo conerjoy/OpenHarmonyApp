@@ -31,6 +31,15 @@
             ]
           }
         ]
+      },
+      {
+        "name": "BusAbility",
+        "srcEntry": "./ets/busability/BusAbility.ets",
+        "description": "$string:BusAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:BusAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background"
       }
     ]
   }
