@@ -32,6 +32,10 @@ struct Index {
         .onClick(() => {
           router.pushUrl({url: "pages/thread/ThreadIndex"})
         })
+      StandardButton({name: '音频'})
+        .onClick(() => {
+          router.pushUrl({url: "pages/audio/AudioIndex"})
+        })
     }.width('100%')
     .height('100%')
     .margin({top: 30})

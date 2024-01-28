@@ -5,6 +5,7 @@
     "pages/BusIndex",
     "pages/thread/ThreadIndex",
     "pages/thread/WorkIndex",
-    "pages/thread/TaskPoolIndex"
+    "pages/thread/TaskPoolIndex",
+    "pages/audio/AudioIndex"
   ]
 }
